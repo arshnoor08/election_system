@@ -1,0 +1,65 @@
+Student name: arshnoor
+person 1
+Student name: abc
+person 2
+Student name: 3
+person 2
+Student name: 6
+person 3
+Student name: rand
+person 1
+Student name: hi
+person 2
+Student name: name
+person 3
+Student name: hello
+person 2
+Student name: okau
+person 3
+Student name: a
+person 2
+Student name: a
+person 2
+Student name: a
+person 3
+Student name: a
+person 1
+Student name: a
+person 2
+Student name: a
+person 3
+Student name: a
+person 1
+Student name: a
+person 2
+Student name: a
+person 3
+Student name: a
+person 1
+Student name: a
+person 3
+Student name: a
+person 2
+Student name: a
+person 1
+Student name: vivek
+person 3
+Student name: a@sfhs.in
+person 2
+Student email: b@sfhs.in
+person 3
+Student email: a@sfhs.in
+person 2
+Student email: e@sfhs.in
+person 3
+Student email: 
+Student name: arshnoor
+person 2
+Student email: f@sfhs.in
+person 3
+Student email: a@sfhs.in
+person 1
+Student email: c@sfhs.in
+person 2
+Student email: a@sfhs.in
+person 2
